@@ -1,0 +1,2 @@
+# strefakursow
+nauka podstaw git
